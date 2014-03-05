@@ -9,4 +9,4 @@ Guides for Usage
 -----------------
 Installation
 
-Usage
+[Usage](https://github.com/TORC2137/2014-TorcCreatedSubVIs/wiki/Usage)
