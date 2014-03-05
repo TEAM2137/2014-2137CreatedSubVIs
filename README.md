@@ -10,3 +10,5 @@ Guides for Usage
 [Installation](https://github.com/TORC2137/2014-TorcCreatedSubVIs/wiki/Installation)
 
 [Usage](https://github.com/TORC2137/2014-TorcCreatedSubVIs/wiki/Usage)
+
+[List of VIs](https://github.com/TORC2137/2014-TorcCreatedSubVIs/wiki/List-of-VIs)
