@@ -7,6 +7,6 @@ After installing using the guide linked to below, the VIs will automatically be 
 
 Guides for Usage
 -----------------
-Installation
+[Installation](https://github.com/TORC2137/2014-TorcCreatedSubVIs/wiki/Installation)
 
 [Usage](https://github.com/TORC2137/2014-TorcCreatedSubVIs/wiki/Usage)
